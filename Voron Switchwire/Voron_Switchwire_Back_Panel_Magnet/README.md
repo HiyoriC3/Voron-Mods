@@ -1,4 +1,4 @@
-# Back panel magnet clip Voron Switchwire
+# Magnetic Back Panel
 Compatible with [Official Voron Switchwire](https://github.com/VoronDesign/Voron-Switchwire) and [boubounokefalos Ender 3 Pro/V2 to Switchwire Conversion](https://github.com/boubounokefalos/Ender_SW).
 
 ![alt text](https://github.com/HiyoriC3/Back_panel_magnet_clip_Voron_Switchwire/blob/main/Pictures/magnet_clip_assembly.PNG?raw=true)
