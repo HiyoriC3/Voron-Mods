@@ -1,18 +1,28 @@
 # Magnetic Back Panel
-Compatible with [Official Voron Switchwire](https://github.com/VoronDesign/Voron-Switchwire) and [boubounokefalos Ender 3 Pro/V2 to Switchwire Conversion](https://github.com/boubounokefalos/Ender_SW).
+
+This mod allow for easy removal of back panel on [Official Voron Switchwire](https://github.com/VoronDesign/Voron-Switchwire) and [boubounokefalos Ender 3 Pro/V2 to Switchwire Conversion](https://github.com/boubounokefalos/Ender_SW).
 
 ![Install on Ender Switchwire](Images/Ender_Switchwire.PNG)
 
+## Printing
+* Material: ABS, ABS+, ASA
+* Layer Height: 0.2-0.3
+* Infill: 20%-40%
+* Supports: No
+
+## BOM
+  | Material | Quantity |
+  |-----|:----:|
+  |6x3 Magnets|12|
+  |CA Glue or Super Glue||
+  |VHB Tape||
+
 ## Info
-* remove rear_panel_bracket (5pcs) frist.
-* 4 pairs should be enough but you can print 2 pairs more for top side.
+* you should remove rear_panel_bracket (5pcs) frist.
+* 4 pairs for both sides and 2 pairs more for top side.
 
-## Parts required
-* 6x for_back_panel
-* 6x for_side_panel
-* 12x Neodymium Magnet 6mm X 3mm
-* 3M scotch flexi tape or VHB tape
-* ca glue, super glue
+## Assembly
 
-## Files
-* CAD files (.SLDPRT) are provided if you want to custom it.
+![Assembly](Images/Assembly.PNG)
+![For Back Panel](Images/For_Back_Panel_Assembly.PNG)
+![For Side Panel](Images/For_Side_Panel_Assembly.PNG)
