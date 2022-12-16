@@ -18,7 +18,7 @@ This mod allow for easy removal of back panel on [Official Voron Switchwire](htt
   |VHB Tape||
 
 ## Info
-* you should remove rear_panel_bracket (5pcs) frist.
+* you should remove rear_panel_bracket (5pcs) first.
 * 4 pairs for both sides and 2 pairs more for top side.
 
 ## Assembly
