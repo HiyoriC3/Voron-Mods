@@ -11,7 +11,7 @@ This mod allow for easy removal of back panel on [Official Voron Switchwire](htt
 * Supports: No
 
 ## BOM
-  | Material | Quantity |
+  | Material | Qty |
   |-----|:----:|
   |6x3 Magnets|12|
   |CA Glue or Super Glue||
