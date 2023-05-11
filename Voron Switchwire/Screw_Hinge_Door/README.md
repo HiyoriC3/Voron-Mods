@@ -11,7 +11,7 @@ This hinges allow for more degrees of motion, from closed to full open for both 
 * Supports: No
 
 ## BOM
-  | Material | Quantity |
+  | Part Description | Qty |
   |-----|:----:|
   |M4x50 SHCS|4 (for 4 pairs)|
   |VHB Tape||
