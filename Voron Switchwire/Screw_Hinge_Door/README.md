@@ -13,8 +13,8 @@ This hinges allow for more degrees of motion, from closed to full open for both 
 ## BOM
   | Part Description | Qty |
   |-----|:----:|
-  |M4x50 SHCS|4 (for 4 pairs)|
+  |M4x50 SHCS|4 (for 2 pairs)|
   |VHB Tape||
 
 ## Info
-* 4 pairs should be enough for both versions.
+* 2 pairs should be enough for both versions.
